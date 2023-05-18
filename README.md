@@ -1,6 +1,6 @@
 <h2 align="left"> Open Product Curriculum </h2>
 
-<p align="center">
+<p align="left">
   <em>A list of useful resources for learning about Product Design & Management.</em>
 </p>
 
